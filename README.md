@@ -1,12 +1,32 @@
-# 👻 Phantom v5 👻 
+<p align="center">
+  👻 <b>Phantom v3</b> 👻
+</p>
 
-## Wow, 5 versions already.. 3 & 4 never got rlewaed to the public, but i thought i mind as well start fresh with a new version name anyway.
+<p align="center">
+  <i>been a minute, huh? hope you guys enjoy this new version :3</i>
+</p>
 
+<p align="center">
+  if you want to know how and why this works, check out the <a href="https://github.com/BlueDragon7327/Phantom-V2">original repo</a>
+</p>
 
-## How does this new version work?
-### This was designed to fix the issue of JS being blocked in FILE: urls, by opening the file via the Android system.
+<p align="center">
+  #phantomliveson
+</p>
 
-## What's new in v5?
-* New UI
-* Built in proxy support for more website compatibility
-* New usage method
+---
+
+<h2 align="center">How does this new version work?</h2>
+<p align="center">
+  This was designed to fix the issue of JS being blocked in <code>file:</code> URLs, by opening the file via the Android system.
+</p>
+
+---
+
+<h2 align="center">What's new in v3?</h2>
+<ul>
+  <li>✨ New UI</li>
+  <li>🌐 Built-in proxy support for more website compatibility</li>
+  <li>🛠️ New usage method</li>
+  <li>⚡ Overall stability improved</li>
+</ul>
