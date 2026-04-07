@@ -18,15 +18,15 @@
 
 <h2 align="center">How does this new version work?</h2>
 <p align="center">
-  This was designed to fix the issue of JS being blocked in <code>file:</code> URLs, by opening the file via the Android system.
+This was designed to fix the issue of JS being blocked in <code>file:</code> URLs, however the usage method will stay private, so that it won't be patched.
 </p>
 
 ---
 
 <h2 align="center">What's new in v3?</h2>
 <ul>
-  <li>✨ New UI</li>
-  <li>🌐 Built-in proxy support for more website compatibility</li>
-  <li>🛠️ New usage method</li>
-  <li>⚡ Overall stability improved</li>
+  <li>New UI</li>
+  <li>Built in proxy for more site compatibility</li>
+  <li>New usage method</li>
+  <li>Overall stability improved</li>
 </ul>
