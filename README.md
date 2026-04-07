@@ -18,7 +18,7 @@
 
 <h2 align="center">How does this new version work?</h2>
 <p align="center">
-This was designed to fix the issue of JS being blocked in <code>file:</code> URLs, however the usage method will stay private, so that it won't be patched.
+This was designed to fix the issue of JS being blocked in <code>file:</code> URLs, however the new usage method will stay private, so that it won't be patched.
 </p>
 
 ---
@@ -30,3 +30,14 @@ This was designed to fix the issue of JS being blocked in <code>file:</code> URL
   <li>New usage method</li>
   <li>Overall stability improved</li>
 </ul>
+
+
+---
+
+<h2 align="center">Some nice sites</h2>
+
+* Use [1anime.app](https://1anime.app) for anime, a bit buggy, but only one that works
+* Use [aether.mom](https://aether.mom/) for movies & shows
+
+
+---
